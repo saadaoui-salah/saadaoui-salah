@@ -1,18 +1,17 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/salah-saadaoui-5757891aa/">
     <img align="left" alt="Saadaoui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
 
 <br />
+<br />
 
+# About Me
 Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Algeria, I Have Many Skills :
 
+![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
  - Full Stack web Developer
  - Deep Learning Developer
  - Web Scarping 
@@ -47,10 +46,11 @@ Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Alger
 
 
 
-# 📈 My GitHub Stats
+# 📈 My Coding Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# 📈 My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark" alt="salahsaadaoui" />
 
