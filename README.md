@@ -44,24 +44,13 @@ Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Alger
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+
+# 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark" alt="salahsaadaoui" />
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadaoui-salah)](https://github.com/anuraghazra/github-readme-stats)
 
