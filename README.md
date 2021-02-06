@@ -46,6 +46,9 @@ Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Alger
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
