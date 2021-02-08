@@ -1,17 +1,15 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+---
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-saadaoui-5757891aa/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salahsaadaoui8@gmail.com)
 
-<a href="https://www.linkedin.com/in/salah-saadaoui-5757891aa/">
-    <img align="left" alt="Saadaoui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
 <br />
 <br />
 
 # About Me
-Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Algeria, I Have Many Skills :
+Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 
-![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
  - Full Stack web Developer
  - Deep Learning Developer
  - Web Scarping 
@@ -19,14 +17,21 @@ Hi, I'm [Salah Saadaoui](https://blog.abhisheknaidu.tech/), 21 Years, From Alger
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+## Visitors:
+![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
+
+## Bizness:
+   
+   **Porotofolio:**
+
+## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently building my portofolio and some small projects to improve my skills
-- 🌱 I’m currently learning Deep Learning Algorithms; 
+- 🌱 I’m learning Deep Learning Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to find me: salahsaadaoui8@gmail.com
 
-**Languages and Tools:**  
+## Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
