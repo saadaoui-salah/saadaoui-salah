@@ -1,8 +1,5 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-Salah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-saadaoui-5757891aa/) [![Mail Badge](https://img.shields.io/badge/-Salah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salahsaadaoui8@gmail.com)
-
-
 
 <br />
 <br />
@@ -59,3 +56,6 @@ Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 # 📈 My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark" alt="salahsaadaoui" />
 
+# Find Me On:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Salah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-saadaoui-5757891aa/) [![Mail Badge](https://img.shields.io/badge/-Salah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salahsaadaoui8@gmail.com)
