@@ -5,9 +5,8 @@
 Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 
  - Full Stack web Developer
- - Deep Learning Developer
- - Web Scarping 
- - Data Science Engenier
+ - AI enginier
+ - Data Scientist
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
