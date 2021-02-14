@@ -49,6 +49,13 @@ Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 17 mins   ███████████████░░░░░░░░░░   60.45 % 
+Markdown     1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+YAML         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Docker       52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Python       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+```
 <!--END_SECTION:waka-->
 
 # 📈 My Github Stats
