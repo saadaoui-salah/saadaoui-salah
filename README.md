@@ -19,7 +19,7 @@ Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 
 ## Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently building my portofolio and some small projects to improve my skills
+- 👨🏽‍💻 I’m currently building a SAAS project
 - 🌱 I’m learning Deep Learning Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to find me: salahsaadaoui8@gmail.com
