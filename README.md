@@ -50,11 +50,11 @@ Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 
 <!--START_SECTION:waka-->
 ```text
-HTML         11 hrs 38 mins  ███████████▒░░░░░░░░░░░░░   45.47 % 
-Python       11 hrs 24 mins  ███████████░░░░░░░░░░░░░░   44.53 % 
-JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-TypeScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python       12 hrs 18 mins  ████████████░░░░░░░░░░░░░   48.56 % 
+HTML         7 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.17 % 
+JavaScript   4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+TypeScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
 
