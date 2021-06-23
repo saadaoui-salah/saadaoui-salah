@@ -4,7 +4,7 @@
 # About Me
 Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
 
- - Full Stack web Developer
+ - web Development
  - ML & DL
  - Data science
 
