@@ -2,7 +2,7 @@
 ---
 
 # About Me
-Hi, I'm Salah Saadaoui, 21 Years, From Algeria, I Have Many Skills :
+Hi, I'm Salah Saadaoui, 21 Years, From Algeria, my skills :
 
  - web Development
  - ML & DL
