@@ -2,10 +2,10 @@
 ---
 
 # About Me
-Hi, I'm Salah Saadaoui, 21 Years, From Algeria, my skills :
+Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 
- - web Development
- - ML & DL
+ - Web Development
+ - Web security
  - Data science
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -15,13 +15,13 @@ Hi, I'm Salah Saadaoui, 21 Years, From Algeria, my skills :
 
 ## Bizness:
    
-   **Porotofolio:**
+   **Porotofolio:** <br>
    **Telegram:** t.me/SalahForBot
 
 ## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently building a SAAS project
-- 🌱 I’m learning Deep Learning Algorithms; 
+- 🌱 I’m differents techniques for bug bounty hunting; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to find me: salahsaadaoui8@gmail.com
 
