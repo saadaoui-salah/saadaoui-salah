@@ -1,5 +1,4 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
----
 
 # About Me
 Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
@@ -7,12 +6,8 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
  - Web Development
  - Web security
  - Data science
-<br>
----
-<br>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
----
 
 ## Visitors:
 ![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
