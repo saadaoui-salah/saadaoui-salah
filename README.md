@@ -10,7 +10,8 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Visitors:
-![](https://visitor-badge.glitch.me/badge?page_id=saadaoui-salah.saadaoui-salah)
+
+![](https://komarev.com/ghpvc/?username=saadaoui-salah&color=blue&style=for-the-badge&label=VISITORS)
 
 ## Bizness:
    
