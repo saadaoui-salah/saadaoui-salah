@@ -45,7 +45,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 # Try Hack me Profile
-<script src="https://tryhackme.com/badge/1448088"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/sad.me.png" alt="TryHackMe">
 
 # 📈 My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark" alt="salahsaadaoui" />
