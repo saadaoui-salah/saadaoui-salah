@@ -8,8 +8,8 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
  - Data science
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="100%" />
-<br>
-<br>
+<br/>
+<br/>
 ## Visitors:
 
 ![](https://komarev.com/ghpvc/?username=saadaoui-salah&color=blue&style=for-the-badge&label=VISITORS)
