@@ -47,6 +47,15 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 # Try Hack me Profile
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/sad.me.png" alt="TryHackMe">
