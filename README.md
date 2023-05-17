@@ -45,11 +45,11 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 <!--START_SECTION:waka-->
 
 ```text
-HTML         11 hrs 44 mins  ██████████▒░░░░░░░░░░░░░░   41.22 %
-JavaScript   11 hrs 6 mins   █████████▓░░░░░░░░░░░░░░░   39.03 %
-YAML         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Docker       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JavaScript   12 hrs 13 mins  ██████████░░░░░░░░░░░░░░░   39.83 %
+HTML         12 hrs 1 min    █████████▓░░░░░░░░░░░░░░░   39.16 %
+Markdown     2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+YAML         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Docker       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
