@@ -58,7 +58,7 @@ Docker       1 hr 14 mins    ▓░░░░░░░░░░░░░░░░
  ![Badge](https://tryhackme-badges.s3.amazonaws.com/sad.me.png?v="hey")
 
 # 📈 My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark" alt="salahsaadaoui" />
+![Stats](https://github-readme-stats.vercel.app/api?username=saadaoui-salah&show_icons=true&theme=dark)
 
  # Find Me On:
  
