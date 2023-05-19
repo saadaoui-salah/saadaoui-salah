@@ -40,7 +40,7 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 
 # 📈 My Coding Stats
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadaoui_salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Try Hack me Profile
  ![Badge](https://tryhackme-badges.s3.amazonaws.com/sad.me.png?v="hey")
