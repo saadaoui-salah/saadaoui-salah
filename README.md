@@ -40,19 +40,7 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 
 # 📈 My Coding Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats?v='hey')
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   21 hrs 8 mins   █████████████▓░░░░░░░░░░░   55.12 %
-HTML         10 hrs          ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-Markdown     2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-YAML         1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Docker       1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-```
-
-<!--END_SECTION:waka-->
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Try Hack me Profile
  ![Badge](https://tryhackme-badges.s3.amazonaws.com/sad.me.png?v="hey")
