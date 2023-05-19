@@ -40,7 +40,7 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 
 # 📈 My Coding Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui-salah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats?v='hey')
 
 <!--START_SECTION:waka-->
 
