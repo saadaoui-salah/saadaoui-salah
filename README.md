@@ -17,8 +17,8 @@ Hi, I'm Salah Saadaoui, 22 Years, From Algeria, my skills :
 
 ## Bizness:
    
-   **Porotofolio:** <br>
-   **Telegram:** t.me/SalahForBot
+   **Porotofolio:** [salahsaadaoui.me](salah-saadaoui.github.io) 
+   **Telegram:** [@SalahForBot](t.me/SalahForBot)
 
 ## Talking about Personal Stuffs:
 
