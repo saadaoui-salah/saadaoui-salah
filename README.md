@@ -61,4 +61,4 @@ Docker       9 mins          ▒░░░░░░░░░░░░░░░░
 
  # Find Me On:
  
-[![Linkedin Badge](https://img.shields.io/badge/-Salah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-saadaoui-5757891aa/) [![Mail Badge](https://img.shields.io/badge/-Salah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salahsaadaoui8@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Salah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadaoui-salah/) [![Mail Badge](https://img.shields.io/badge/-Salah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salahsaadaoui8@gmail.com)
